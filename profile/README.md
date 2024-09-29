@@ -10,8 +10,8 @@ We are a team passionate about **web development** and enjoy pushing our skills 
 
 ## 📌 **Our Work So Far**  
 
-- **Bloodstained Doofestien**: Our first-place project at **Cognition Game Jam '24**, a Doom-inspired game where players face waves of enemies in a simplistic environment. This project helped us get selected among the top 12 teams from 64 in the qualifiers.
-- **The Legend of Valhalla**: An action-adventure game created during another thrilling game jam. With unique combat and upgrade mechanics, this project gave us great exposure and experience.
+- 🩸 [Bloodstained Doofestien](https://github.com/Interloopers/Bloodstained-Doofestien): Our first-place project at **Cognition Game Jam '24**, a Doom-inspired game where players face waves of enemies in a simplistic environment. This project helped us get selected among the top 12 teams from 64 in the qualifiers.
+- ⚔️ [The Legend of Valhalla](https://github.com/Interloopers/The-Legend-of-Valhalla): An action-adventure game created during another thrilling game jam. With unique combat and upgrade mechanics, this project gave us great exposure and experience.
   
 Our main focus remains **web development**, and these game projects were one-off entries into the game development world through hackathons.
 
