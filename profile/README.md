@@ -1,46 +1,30 @@
-# 🌀 **Interloopers** 🌀
-**Web Development Enthusiasts | Hackathon Participants**
+# 🌐 **Interloopers** 
+
+**Collaborative Creators | Hackathon Innovators**
+
+Welcome to **Interloopers**—an organization founded out of necessity to streamline our project management process. Initially, each team member was creating individual repositories for collaborative projects, which quickly became inefficient. To solve this, we created **Interloopers**, where all our projects now reside, giving us a unified space to showcase our work.
+
+## 🛠️ **Who We Are**
+
+We are a team passionate about **web development** and enjoy pushing our skills further through **hackathons**. Although we made waves by winning a **game jam**, web development is where our hearts (and code) lie. This organization serves as a testament to our journey through various hackathons and the creative solutions we build along the way.
+
+## 📌 **Our Work So Far**  
+
+- **Bloodstained Doofestien**: Our first-place project at **Cognition Game Jam '24**, a Doom-inspired game where players face waves of enemies in a simplistic environment. This project helped us get selected among the top 12 teams from 64 in the qualifiers.
+- **The Legend of Valhalla**: An action-adventure game created during another thrilling game jam. With unique combat and upgrade mechanics, this project gave us great exposure and experience.
+  
+Our main focus remains **web development**, and these game projects were one-off entries into the game development world through hackathons.
+
+## 🚀 **Looking Ahead**
+
+We will continue participating in hackathons and pushing the boundaries of web development. Expect more exciting projects to be added here in the future!
+
+> *Note: While we appreciate interest, we aren’t looking to expand our team at the moment, as this organization was created to streamline collaboration among existing members.*
+
+## 💡 **Why We Created Interloopers**
+
+Managing separate repositories across multiple profiles became a hassle. By consolidating everything under one organization, we now have a single space to showcase our collaborative work. Each of us pins the relevant repositories in our profiles, making it easier to navigate and present our contributions.
 
 ---
 
-## 🌟 **About Us**  
-We are **Interloopers**, a team primarily focused on **web development** but always up for a challenge! While our roots are in creating dynamic, innovative web solutions, we also dabble in hackathons to explore new horizons.
-
-Initially, each team member hosted their own repositories for various projects, which quickly became time-consuming to manage. To streamline this, we created this organization to **consolidate all our work** under one roof. No more scattered repos — everything now lives here, pinned and easily accessible on our profiles!
-
-While web development remains our core focus, one of our proudest achievements is winning **1st place in the Cognition Game Jam ‘24** with our game **Bloodstained Doofestien**. We don't usually develop games, but we love to dive into new challenges and problem-solving, and this was a great experience.
-
----
-
-## 🛠️ **What We Do**  
-- **Web Development**: Our bread and butter. Whether it's front-end design, back-end functionality, or full-stack projects, we've got it covered.
-- **Hackathons**: We regularly participate in hackathons to push our boundaries and apply our skills in new and exciting ways.
-- **Collaborative Projects**: Working together is what we do best, creating streamlined workflows to manage and complete our projects efficiently.
-
----
-
-## 🎮 **Why Interloopers?**  
-The team was formed out of necessity: managing multiple individual repositories for group projects was inefficient and messy. Now, **Interloopers** serves as a hub for all our collaborative projects. We have no plans to expand the team — this is strictly an internal solution to **make project management easier**. 
-
----
-
-## 🚀 **Our Work So Far**  
-- **Bloodstained Doofestien**: The game that won us 1st place at **Cognition Game Jam '24**! A rare venture into game development.
-- **The Legend of Valhalla**: An action-adventure game that helped us qualify for the **Cognition Game Jam**, a true team effort that paid off.
-
-You’ll find our work on GitHub under this organization, and we’re excited to **keep growing** our repository with more **web development** and **hackathon** projects. Stay tuned for future updates as we continue to explore, build, and develop!
-
----
-
-## 📌 **Pinned Projects**  
-- 🩸 [Bloodstained Doofestien](https://github.com/Interloopers/Bloodstained-Doofestien)  
-- ⚔️ [The Legend of Valhalla](https://github.com/Interloopers/The-Legend-of-Valhalla)
-
----
-
-## 🌐 **Looking Forward**  
-Expect more **web projects** and **hackathon** entries to come. Though game development is not our main gig, we’ll always rise to the challenge when it counts. Keep an eye out for what’s next!
-
----
-
-_The journey of coding never stops, and neither do we._
+Feel free to explore our repositories and follow us as we continue our journey of innovation and creation!
