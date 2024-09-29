@@ -1,10 +1,13 @@
 # 🌐 **Interloopers** 
 
-**Team of Fun-Loving Hackathon Heroes | Web Wizards**
+**Hackathon Heroes | Web Wizards**
 
-Welcome to **Interloopers**—the result of our genius idea to stop drowning in a sea of individual repos! 🎉 We realized that creating separate repositories for each project was like herding cats—chaotic and time-consuming. So, we banded together to form this glorious collective!
+Welcome to **Interloopers**—where we figured out that juggling individual repos was just too much! 🎉 We came together to create a space for our projects, and guess what? We even snagged 1st place at the Cognition Game Jam! 🏆 
 
-Here, you’ll find our victorious projects, including the one that snagged us the first prize at the Cognition Game Jam! 🏆💥 We’re not game devs; we’re mostly web developers who occasionally dabble in game jams for kicks. 
+We're primarily web developers, but we love jumping into game jams for fun. Check out our projects and join us in our hackathon adventures! 
+
+**P.S.** No new members right now—we're a cozy bunch! 😄
+
 
 
 ## 🛠️ **Who We Are**
